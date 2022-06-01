@@ -1,0 +1,32 @@
+Progulon_ID,Progulon_name
+P01,RAB GTPases
+P02,Myosin cytoskeleton
+P03,COP9 signalosome
+P04,mito. 39S ribosome
+P05,mito. 28S ribosome
+P06,"ETC, complex I (a)"
+P07,"ETC, complex I (b)"
+P08,"ETC, complex IV"
+P09,ATP Synthase
+P10,"Proteasome, core"
+P11,"Proteasome, 26S non-ATPase"
+P12,"Proteasome, 26S ATPase"
+P13,"Protein folding, Prefoldin"
+P14,"Protein folding, TriC"
+P15,rRNA processing
+P16,Actin cytoskeleton
+P17,mRNA processing (a)
+P18,mRNA processing (b)
+P19,hnRNPs
+P20,snRNPs
+P21,Exosome
+P22,Cohesin
+P23,Coatomer
+P24,eIF-3
+P25,Ribosome
+P26,Condensin
+P27,Nuclear pore
+P28,Vesicular transport
+P29,DNA replication
+P30,tRNA ligases
+P31,Nucleosome

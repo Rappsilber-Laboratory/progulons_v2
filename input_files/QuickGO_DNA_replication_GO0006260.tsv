@@ -1,0 +1,643 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	QUALIFIER	GO TERM	GO NAME	ECO ID	GO EVIDENCE CODE	REFERENCE	WITH/FROM	TAXON ID	ASSIGNED BY	ANNOTATION EXTENSION	GO ASPECT
+UniProtKB	A4GXA9	EME2	involved_in	GO:0031297	replication fork processing	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001078409|PomBase:SPAPB1E7.06c	9606	GO_Central		P
+UniProtKB	A6NCL1	GMNC	involved_in	GO:0006260	DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q3URY2|ensembl:ENSMUSP00000087269	9606	Ensembl		P
+UniProtKB	A6NCL1	GMNC	involved_in	GO:0006270	DNA replication initiation	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR029700	9606	InterPro		P
+UniProtKB	A6NCL1	GMNC	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	A8MT69	CENPX	involved_in	GO:0031297	replication fork processing	ECO:0000315	IMP	PMID:20347428		9606	UniProt		P
+UniProtKB	A8MT69	CENPX	involved_in	GO:0031297	replication fork processing	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002010747|PomBase:SPCC576.12c|UniProtKB:A8MT69	9606	GO_Central		P
+UniProtKB	O00311	CDC7	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176318		9606	Reactome		P
+UniProtKB	O00712	NFIB	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	O14519	CDK2AP1	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000303	NAS	PMID:9506968		9606	UniProt	happens_during(GO:0000084)	P
+UniProtKB	O14757	CHEK1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	O14757	CHEK1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176187		9606	Reactome		P
+UniProtKB	O43913	ORC5	involved_in	GO:0006270	DNA replication initiation	ECO:0000304	TAS	PMID:9765232		9606	PINC		P
+UniProtKB	O43913	ORC5	involved_in	GO:0006260	DNA replication	ECO:0000303	NAS	PMID:9765232		9606	UniProt		P
+UniProtKB	O43913	ORC5	involved_in	GO:0006270	DNA replication initiation	ECO:0000318	IBA	PMID:21873635	FB:FBgn0015271|PANTHER:PTN000295037|SGD:S000005205	9606	GO_Central		P
+UniProtKB	O43913	ORC5	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176318		9606	Reactome		P
+UniProtKB	O43913	ORC5	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR020796	9606	InterPro		P
+UniProtKB	O43913	ORC5	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	O43929	ORC4	involved_in	GO:0006270	DNA replication initiation	ECO:0000315	IMP	PMID:9353276		9606	UniProt		P
+UniProtKB	O43929	ORC4	involved_in	GO:0006270	DNA replication initiation	ECO:0000318	IBA	PMID:21873635	FB:FBgn0023181|PANTHER:PTN000250139|SGD:S000006366|UniProtKB:O43929	9606	GO_Central		P
+UniProtKB	O43929	ORC4	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176318		9606	Reactome		P
+UniProtKB	O43929	ORC4	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR016527	9606	InterPro		P
+UniProtKB	O43929	ORC4	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	O60671	RAD1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	O60673	REV3L	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000304	TAS	PMID:9618506		9606	PINC		P
+UniProtKB	O60673	REV3L	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	O60870	KIN	involved_in	GO:0006260	DNA replication	ECO:0000314	IDA	PMID:12359749		9606	UniProt		P
+UniProtKB	O60870	KIN	involved_in	GO:0006260	DNA replication	ECO:0000318	IBA	PMID:21873635	MGI:MGI:96676|PANTHER:PTN000301499|UniProtKB:O60870	9606	GO_Central		P
+UniProtKB	O60870	KIN	involved_in	GO:0006260	DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8K339|ensembl:ENSMUSP00000043614	9606	Ensembl		P
+UniProtKB	O60870	KIN	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	O60921	HUS1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	O60934	NBN	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	O60934	NBN	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	O75312	ZPR1	involved_in	GO:0042023	DNA endoreduplication	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q62384	9606	UniProt		P
+UniProtKB	O75312	ZPR1	involved_in	GO:0042023	DNA endoreduplication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q62384|ensembl:ENSMUSP00000117725	9606	Ensembl		P
+UniProtKB	O75417	POLQ	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000318	IBA	PMID:21873635	EcoGene:EG10746|PANTHER:PTN000015249	9606	GO_Central		P
+UniProtKB	O75417	POLQ	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001098|InterPro:IPR019760	9606	InterPro		P
+UniProtKB	O75417	POLQ	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002298	9606	InterPro		P
+UniProtKB	O75419	CDC45	involved_in	GO:0006270	DNA replication initiation	ECO:0000304	TAS	PMID:9660782		9606	PINC		P
+UniProtKB	O75419	CDC45	involved_in	GO:1902977	mitotic DNA replication preinitiation complex assembly	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000053416|PomBase:SPAC17D4.02	9606	GO_Central		P
+UniProtKB	O75419	CDC45	involved_in	GO:0006270	DNA replication initiation	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000053416|SGD:S000004093	9606	GO_Central		P
+UniProtKB	O75419	CDC45	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176318		9606	Reactome		P
+UniProtKB	O75419	CDC45	involved_in	GO:0006270	DNA replication initiation	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003874	9606	InterPro		P
+UniProtKB	O75419	CDC45	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	O75496	GMNN	involved_in	GO:0071163	DNA replication preinitiation complex assembly	ECO:0000314	IDA	PMID:11125146		9606	CAFA		P
+UniProtKB	O75717	WDHD1	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000460568|SGD:S000006339	9606	GO_Central		P
+UniProtKB	O75792	RNASEH2A	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:9789007		9606	PINC		P
+UniProtKB	O75792	RNASEH2A	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:21177858		9606	UniProt		P
+UniProtKB	O75943	RAD17	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	O75943	RAD17	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176264		9606	Reactome		P
+UniProtKB	O75943	RAD17	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176101		9606	Reactome		P
+UniProtKB	O94761	RECQL4	involved_in	GO:0006260	DNA replication	ECO:0000315	IMP	PMID:22039056		9606	BHF-UCL	occurs_at(GO:0000781)	P
+UniProtKB	O94761	RECQL4	involved_in	GO:0006260	DNA replication	ECO:0000314	IDA	PMID:19177149		9606	UniProt		P
+UniProtKB	O94761	RECQL4	involved_in	GO:0006260	DNA replication	ECO:0000318	IBA	PMID:21873635	FB:FBgn0040290|PANTHER:PTN002299856|UniProtKB:O94761	9606	GO_Central		P
+UniProtKB	O94762	RECQL5	involved_in	GO:0006260	DNA replication	ECO:0000315	IMP	PMID:22013166		9606	UniProt		P
+UniProtKB	O94762	RECQL5	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	O95251	KAT7	involved_in	GO:0006260	DNA replication	ECO:0000314	IDA	PMID:16387653		9606	UniProt		P
+UniProtKB	O95251	KAT7	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	O96020	CCNE2	involved_in	GO:0006270	DNA replication initiation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Z238|ensembl:ENSMUSP00000130693	9606	Ensembl		P
+UniProtKB	P06493	CDK1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:21655336		9606	UniProt		P
+UniProtKB	P06746	POLB	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000304	TAS	PMID:8168825		9606	PINC		P
+UniProtKB	P06746	POLB	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P08651	NFIC	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P09884	POLA1	involved_in	GO:0006273	lagging strand elongation	ECO:0000314	IDA	PMID:2175912		9606	UniProt		P
+UniProtKB	P09884	POLA1	involved_in	GO:0006273	lagging strand elongation	ECO:0000314	IDA	PMID:7910375		9606	UniProt		P
+UniProtKB	P09884	POLA1	involved_in	GO:0006272	leading strand elongation	ECO:0000314	IDA	PMID:2175912		9606	UniProt		P
+UniProtKB	P09884	POLA1	involved_in	GO:0006272	leading strand elongation	ECO:0000314	IDA	PMID:7910375		9606	UniProt		P
+UniProtKB	P09884	POLA1	involved_in	GO:0006271	DNA strand elongation involved in DNA replication	ECO:0000315	IMP	PMID:4084590		9606	UniProt		P
+UniProtKB	P09884	POLA1	involved_in	GO:0006270	DNA replication initiation	ECO:0000314	IDA	PMID:2175912		9606	UniProt		P
+UniProtKB	P09884	POLA1	involved_in	GO:0006260	DNA replication	ECO:0000315	IMP	PMID:4084590		9606	UniProt		P
+UniProtKB	P09884	POLA1	involved_in	GO:0006260	DNA replication	ECO:0000315	IMP	PMID:16762037		9606	UniProt	happens_during(GO:0000084)	P
+UniProtKB	P09884	POLA1	involved_in	GO:0006260	DNA replication	ECO:0000315	IMP	PMID:3917431		9606	UniProt		P
+UniProtKB	P09884	POLA1	involved_in	GO:0006269	DNA replication, synthesis of RNA primer	ECO:0000314	IDA	PMID:2175912		9606	UniProt		P
+UniProtKB	P09884	POLA1	involved_in	GO:1902981	synthesis of RNA primer involved in mitotic DNA replication	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000035348|PomBase:SPAC3H5.06c	9606	GO_Central		P
+UniProtKB	P09884	POLA1	involved_in	GO:1902975	mitotic DNA replication initiation	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000035348|PomBase:SPAC3H5.06c	9606	GO_Central		P
+UniProtKB	P09884	POLA1	involved_in	GO:0006273	lagging strand elongation	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000035348|UniProtKB:O48653|UniProtKB:P09884	9606	GO_Central		P
+UniProtKB	P09884	POLA1	involved_in	GO:0006272	leading strand elongation	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000035348|UniProtKB:P09884	9606	GO_Central		P
+UniProtKB	P09884	POLA1	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174452		9606	Reactome		P
+UniProtKB	P09884	POLA1	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174427		9606	Reactome		P
+UniProtKB	P09884	POLA1	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174425		9606	Reactome		P
+UniProtKB	P09884	POLA1	involved_in	GO:0006270	DNA replication initiation	ECO:0000304	TAS	Reactome:R-HSA-68952		9606	Reactome		P
+UniProtKB	P09884	POLA1	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR015088	9606	InterPro		P
+UniProtKB	P09884	POLA1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P0CG13	CHTF8	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P11387	TOP1	involved_in	GO:0006260	DNA replication	ECO:0000318	IBA	PMID:21873635	MGI:MGI:98788|PANTHER:PTN000033230	9606	GO_Central		P
+UniProtKB	P11387	TOP1	involved_in	GO:0006260	DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q04750|ensembl:ENSMUSP00000105094	9606	Ensembl		P
+UniProtKB	P12004	PCNA	involved_in	GO:1902990	mitotic telomere maintenance via semi-conservative replication	ECO:0000250	ISS	PMID:24115439	UniProtKB:P17918	9606	BHF-UCL		P
+UniProtKB	P12004	PCNA	involved_in	GO:0031297	replication fork processing	ECO:0000250	ISS	PMID:24115439	UniProtKB:P17918	9606	BHF-UCL	part_of(GO:1902990)	P
+UniProtKB	P12004	PCNA	involved_in	GO:0006272	leading strand elongation	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000143422|SGD:S000000292	9606	GO_Central		P
+UniProtKB	P12004	PCNA	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174451		9606	Reactome		P
+UniProtKB	P12004	PCNA	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174448		9606	Reactome		P
+UniProtKB	P12004	PCNA	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174447		9606	Reactome		P
+UniProtKB	P12004	PCNA	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174445		9606	Reactome		P
+UniProtKB	P12004	PCNA	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174441		9606	Reactome		P
+UniProtKB	P12004	PCNA	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174439		9606	Reactome		P
+UniProtKB	P12004	PCNA	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174438		9606	Reactome		P
+UniProtKB	P12004	PCNA	involved_in	GO:1902990	mitotic telomere maintenance via semi-conservative replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P17918|ensembl:ENSMUSP00000028817	9606	Ensembl		P
+UniProtKB	P12004	PCNA	involved_in	GO:0031297	replication fork processing	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P17918|ensembl:ENSMUSP00000028817	9606	Ensembl		P
+UniProtKB	P12004	PCNA	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P15927	RPA2	involved_in	GO:0006260	DNA replication	ECO:0000315	IMP	PMID:9430682		9606	UniProt		P
+UniProtKB	P15927	RPA2	involved_in	GO:0006260	DNA replication	ECO:0000314	IDA	PMID:2406247		9606	UniProt		P
+UniProtKB	P15927	RPA2	involved_in	GO:0006260	DNA replication	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000360435|SGD:S000005256|TAIR:locus:2061072|UniProtKB:P15927	9606	GO_Central		P
+UniProtKB	P15927	RPA2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174451		9606	Reactome		P
+UniProtKB	P15927	RPA2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174445		9606	Reactome		P
+UniProtKB	P15927	RPA2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174441		9606	Reactome		P
+UniProtKB	P15927	RPA2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	P15927	RPA2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	P15927	RPA2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176264		9606	Reactome		P
+UniProtKB	P15927	RPA2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176250		9606	Reactome		P
+UniProtKB	P15927	RPA2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176175		9606	Reactome		P
+UniProtKB	P15927	RPA2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176101		9606	Reactome		P
+UniProtKB	P15927	RPA2	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR014646	9606	InterPro		P
+UniProtKB	P15927	RPA2	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P17096	HMGA1	involved_in	GO:0006268	DNA unwinding involved in DNA replication	ECO:0000303	NAS	PMID:10428834		9606	UniProt		P
+UniProtKB	P18858	LIG1	involved_in	GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000048794|PomBase:SPAC20G8.01	9606	GO_Central		P
+UniProtKB	P18858	LIG1	involved_in	GO:0006273	lagging strand elongation	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000048695|SGD:S000002323	9606	GO_Central		P
+UniProtKB	P18858	LIG1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P20585	MSH3	involved_in	GO:0043111	replication fork arrest	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000145759|SGD:S000000688	9606	GO_Central		P
+UniProtKB	P20962	PTMS	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:10854063		9606	PINC		P
+UniProtKB	P22303	ACHE	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:11283752		9606	UniProt		P
+UniProtKB	P23921	RRM1	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000788|InterPro:IPR013509	9606	InterPro		P
+UniProtKB	P23921	RRM1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P23921	RRM1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00326	9606	UniProt		P
+UniProtKB	P24864	CCNE1	involved_in	GO:0006270	DNA replication initiation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61457|ensembl:ENSMUSP00000103658	9606	Ensembl		P
+UniProtKB	P24941	CDK2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:19238148		9606	UniProt		P
+UniProtKB	P24941	CDK2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176318		9606	Reactome		P
+UniProtKB	P25205	MCM3	involved_in	GO:0006270	DNA replication initiation	ECO:0000304	TAS	PMID:1549468		9606	PINC		P
+UniProtKB	P25205	MCM3	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176318		9606	Reactome		P
+UniProtKB	P25205	MCM3	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR018525	9606	InterPro		P
+UniProtKB	P25205	MCM3	involved_in	GO:0006270	DNA replication initiation	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001208|InterPro:IPR008046	9606	InterPro		P
+UniProtKB	P25205	MCM3	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P27694	RPA1	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000304	TAS	PMID:8756712		9606	PINC		P
+UniProtKB	P27694	RPA1	involved_in	GO:0006260	DNA replication	ECO:0000315	IMP	PMID:9430682		9606	UniProt		P
+UniProtKB	P27694	RPA1	involved_in	GO:0006268	DNA unwinding involved in DNA replication	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000588618|PomBase:SPBC660.13c|SGD:S000000065	9606	GO_Central		P
+UniProtKB	P27694	RPA1	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000318	IBA	PMID:21873635	FB:FBgn0010173|PANTHER:PTN000588618|UniProtKB:Q9U0J0	9606	GO_Central		P
+UniProtKB	P27694	RPA1	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174451		9606	Reactome		P
+UniProtKB	P27694	RPA1	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174445		9606	Reactome		P
+UniProtKB	P27694	RPA1	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174441		9606	Reactome		P
+UniProtKB	P27694	RPA1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	P27694	RPA1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	P27694	RPA1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176264		9606	Reactome		P
+UniProtKB	P27694	RPA1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176250		9606	Reactome		P
+UniProtKB	P27694	RPA1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176175		9606	Reactome		P
+UniProtKB	P27694	RPA1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176101		9606	Reactome		P
+UniProtKB	P27694	RPA1	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004591|InterPro:IPR007199	9606	InterPro		P
+UniProtKB	P27694	RPA1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P28340	POLD1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:9620226		9606	PINC		P
+UniProtKB	P28340	POLD1	involved_in	GO:0006260	DNA replication	ECO:0000315	IMP	PMID:16762037		9606	UniProt		P
+UniProtKB	P28340	POLD1	involved_in	GO:0045004	DNA replication proofreading	ECO:0000318	IBA	PMID:21873635	MGI:MGI:97741|PANTHER:PTN000035478	9606	GO_Central		P
+UniProtKB	P28340	POLD1	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000035346|RGD:621839	9606	GO_Central		P
+UniProtKB	P28340	POLD1	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174451		9606	Reactome		P
+UniProtKB	P28340	POLD1	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174448		9606	Reactome		P
+UniProtKB	P28340	POLD1	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174445		9606	Reactome		P
+UniProtKB	P28340	POLD1	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174444		9606	Reactome		P
+UniProtKB	P28340	POLD1	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174441		9606	Reactome		P
+UniProtKB	P28340	POLD1	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174438		9606	Reactome		P
+UniProtKB	P28340	POLD1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P29558	RBMS1	involved_in	GO:0006260	DNA replication	ECO:0000303	NAS	PMID:7838710		9606	UniProt		P
+UniProtKB	P29558	RBMS1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P31350	RRM2	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P31350	RRM2	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00326	9606	UniProt		P
+UniProtKB	P33316	DUT	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:1325640		9606	PINC		P
+UniProtKB	P33991	MCM4	involved_in	GO:0006260	DNA replication	ECO:0000303	NAS	PMID:9465298		9606	UniProt		P
+UniProtKB	P33991	MCM4	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176318		9606	Reactome		P
+UniProtKB	P33991	MCM4	involved_in	GO:0006268	DNA unwinding involved in DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P49717|ensembl:ENSMUSP00000023353	9606	Ensembl		P
+UniProtKB	P33991	MCM4	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR018525	9606	InterPro		P
+UniProtKB	P33991	MCM4	involved_in	GO:0006270	DNA replication initiation	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001208|InterPro:IPR008047	9606	InterPro		P
+UniProtKB	P33991	MCM4	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P33992	MCM5	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:8751386		9606	PINC		P
+UniProtKB	P33992	MCM5	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176318		9606	Reactome		P
+UniProtKB	P33992	MCM5	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR018525	9606	InterPro		P
+UniProtKB	P33992	MCM5	involved_in	GO:0006270	DNA replication initiation	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001208|InterPro:IPR008048	9606	InterPro		P
+UniProtKB	P33992	MCM5	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P33993	MCM7	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:8798650		9606	PINC		P
+UniProtKB	P33993	MCM7	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176318		9606	Reactome		P
+UniProtKB	P33993	MCM7	involved_in	GO:0006268	DNA unwinding involved in DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61881|ensembl:ENSMUSP00000000505	9606	Ensembl		P
+UniProtKB	P33993	MCM7	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR018525	9606	InterPro		P
+UniProtKB	P33993	MCM7	involved_in	GO:0006270	DNA replication initiation	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001208|InterPro:IPR008050	9606	InterPro		P
+UniProtKB	P33993	MCM7	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P35244	RPA3	involved_in	GO:0006260	DNA replication	ECO:0000315	IMP	PMID:9430682		9606	UniProt		P
+UniProtKB	P35244	RPA3	involved_in	GO:0006260	DNA replication	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001031498|UniProtKB:P35244	9606	GO_Central		P
+UniProtKB	P35244	RPA3	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174451		9606	Reactome		P
+UniProtKB	P35244	RPA3	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174445		9606	Reactome		P
+UniProtKB	P35244	RPA3	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174441		9606	Reactome		P
+UniProtKB	P35244	RPA3	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	P35244	RPA3	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	P35244	RPA3	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176264		9606	Reactome		P
+UniProtKB	P35244	RPA3	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176250		9606	Reactome		P
+UniProtKB	P35244	RPA3	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176175		9606	Reactome		P
+UniProtKB	P35244	RPA3	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176101		9606	Reactome		P
+UniProtKB	P35244	RPA3	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR013970	9606	InterPro		P
+UniProtKB	P35244	RPA3	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P35249	RFC4	involved_in	GO:0006271	DNA strand elongation involved in DNA replication	ECO:0000304	TAS	PMID:7774928		9606	PINC		P
+UniProtKB	P35249	RFC4	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000318	IBA	PMID:21873635	EcoGene:EG11500|PANTHER:PTN000186208	9606	GO_Central		P
+UniProtKB	P35249	RFC4	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174452		9606	Reactome		P
+UniProtKB	P35249	RFC4	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174447		9606	Reactome		P
+UniProtKB	P35249	RFC4	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174439		9606	Reactome		P
+UniProtKB	P35249	RFC4	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	P35249	RFC4	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176264		9606	Reactome		P
+UniProtKB	P35249	RFC4	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176101		9606	Reactome		P
+UniProtKB	P35249	RFC4	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008921	9606	InterPro		P
+UniProtKB	P35249	RFC4	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P35250	RFC2	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000318	IBA	PMID:21873635	EcoGene:EG11500|PANTHER:PTN000186208	9606	GO_Central		P
+UniProtKB	P35250	RFC2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174452		9606	Reactome		P
+UniProtKB	P35250	RFC2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174447		9606	Reactome		P
+UniProtKB	P35250	RFC2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174439		9606	Reactome		P
+UniProtKB	P35250	RFC2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	P35250	RFC2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176264		9606	Reactome		P
+UniProtKB	P35250	RFC2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176101		9606	Reactome		P
+UniProtKB	P35250	RFC2	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008921	9606	InterPro		P
+UniProtKB	P35250	RFC2	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P35251	RFC1	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000304	TAS	PMID:8248204		9606	PINC		P
+UniProtKB	P35251	RFC1	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174452		9606	Reactome		P
+UniProtKB	P35251	RFC1	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174447		9606	Reactome		P
+UniProtKB	P35251	RFC1	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174439		9606	Reactome		P
+UniProtKB	P35251	RFC1	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008921|InterPro:IPR012178|InterPro:IPR013725	9606	InterPro		P
+UniProtKB	P35251	RFC1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P38398	BRCA1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	P38398	BRCA1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	P38935	IGHMBP2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:8493094		9606	PINC		P
+UniProtKB	P39748	FEN1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:9778254		9606	PINC		P
+UniProtKB	P39748	FEN1	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174446		9606	Reactome		P
+UniProtKB	P39748	FEN1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P40937	RFC5	involved_in	GO:0006260	DNA replication	ECO:0000303	NAS	PMID:8999859		9606	UniProt		P
+UniProtKB	P40937	RFC5	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000318	IBA	PMID:21873635	EcoGene:EG11500|PANTHER:PTN000186208	9606	GO_Central		P
+UniProtKB	P40937	RFC5	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174452		9606	Reactome		P
+UniProtKB	P40937	RFC5	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174447		9606	Reactome		P
+UniProtKB	P40937	RFC5	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174439		9606	Reactome		P
+UniProtKB	P40937	RFC5	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	P40937	RFC5	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176264		9606	Reactome		P
+UniProtKB	P40937	RFC5	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176101		9606	Reactome		P
+UniProtKB	P40937	RFC5	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008921	9606	InterPro		P
+UniProtKB	P40937	RFC5	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P40938	RFC3	involved_in	GO:0006271	DNA strand elongation involved in DNA replication	ECO:0000304	TAS	PMID:7774928		9606	PINC		P
+UniProtKB	P40938	RFC3	involved_in	GO:0006260	DNA replication	ECO:0000314	IDA	PMID:9488738		9606	UniProt		P
+UniProtKB	P40938	RFC3	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000318	IBA	PMID:21873635	EcoGene:EG11500|PANTHER:PTN000186208	9606	GO_Central		P
+UniProtKB	P40938	RFC3	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174452		9606	Reactome		P
+UniProtKB	P40938	RFC3	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174447		9606	Reactome		P
+UniProtKB	P40938	RFC3	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174439		9606	Reactome		P
+UniProtKB	P40938	RFC3	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	P40938	RFC3	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176264		9606	Reactome		P
+UniProtKB	P40938	RFC3	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176101		9606	Reactome		P
+UniProtKB	P40938	RFC3	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008921	9606	InterPro		P
+UniProtKB	P40938	RFC3	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P46100	ATRX	involved_in	GO:0031297	replication fork processing	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q61687	9606	UniProt		P
+UniProtKB	P46100	ATRX	involved_in	GO:0031297	replication fork processing	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61687|ensembl:ENSMUSP00000109203	9606	Ensembl		P
+UniProtKB	P49005	POLD2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:8530069		9606	PINC		P
+UniProtKB	P49005	POLD2	involved_in	GO:0006271	DNA strand elongation involved in DNA replication	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000045935|PomBase:SPAC27E2.05	9606	GO_Central		P
+UniProtKB	P49005	POLD2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174451		9606	Reactome		P
+UniProtKB	P49005	POLD2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174448		9606	Reactome		P
+UniProtKB	P49005	POLD2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174445		9606	Reactome		P
+UniProtKB	P49005	POLD2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174444		9606	Reactome		P
+UniProtKB	P49005	POLD2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174441		9606	Reactome		P
+UniProtKB	P49005	POLD2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174438		9606	Reactome		P
+UniProtKB	P49005	POLD2	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR007185	9606	InterPro		P
+UniProtKB	P49005	POLD2	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P49321	NASP	involved_in	GO:0006260	DNA replication	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q99MD9	9606	UniProt		P
+UniProtKB	P49321	NASP	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P49427	CDC34	involved_in	GO:0006270	DNA replication initiation	ECO:0000303	NAS	PMID:8248134		9606	UniProt		P
+UniProtKB	P49642	PRIM1	involved_in	GO:0006269	DNA replication, synthesis of RNA primer	ECO:0000304	TAS	PMID:8026492		9606	PINC		P
+UniProtKB	P49642	PRIM1	involved_in	GO:0006269	DNA replication, synthesis of RNA primer	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000056764|SGD:S000001447	9606	GO_Central		P
+UniProtKB	P49642	PRIM1	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174452		9606	Reactome		P
+UniProtKB	P49642	PRIM1	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174427		9606	Reactome		P
+UniProtKB	P49642	PRIM1	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174425		9606	Reactome		P
+UniProtKB	P49642	PRIM1	involved_in	GO:0006270	DNA replication initiation	ECO:0000304	TAS	Reactome:R-HSA-68952		9606	Reactome		P
+UniProtKB	P49642	PRIM1	involved_in	GO:0006269	DNA replication, synthesis of RNA primer	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002755|InterPro:IPR014052	9606	InterPro		P
+UniProtKB	P49642	PRIM1	involved_in	GO:0006269	DNA replication, synthesis of RNA primer	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0639	9606	UniProt		P
+UniProtKB	P49642	PRIM1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P49643	PRIM2	involved_in	GO:0006269	DNA replication, synthesis of RNA primer	ECO:0000304	TAS	PMID:8026492		9606	PINC		P
+UniProtKB	P49643	PRIM2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174452		9606	Reactome		P
+UniProtKB	P49643	PRIM2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174427		9606	Reactome		P
+UniProtKB	P49643	PRIM2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174425		9606	Reactome		P
+UniProtKB	P49643	PRIM2	involved_in	GO:0006270	DNA replication initiation	ECO:0000304	TAS	Reactome:R-HSA-68952		9606	Reactome		P
+UniProtKB	P49643	PRIM2	involved_in	GO:0006269	DNA replication, synthesis of RNA primer	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR007238	9606	InterPro		P
+UniProtKB	P49643	PRIM2	involved_in	GO:0006269	DNA replication, synthesis of RNA primer	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0639	9606	UniProt		P
+UniProtKB	P49643	PRIM2	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P49736	MCM2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:8175912		9606	PINC		P
+UniProtKB	P49736	MCM2	involved_in	GO:0006270	DNA replication initiation	ECO:0000315	IMP	PMID:16899510		9606	UniProt		P
+UniProtKB	P49736	MCM2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176318		9606	Reactome		P
+UniProtKB	P49736	MCM2	involved_in	GO:0006268	DNA unwinding involved in DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97310|ensembl:ENSMUSP00000061923	9606	Ensembl		P
+UniProtKB	P49736	MCM2	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR018525	9606	InterPro		P
+UniProtKB	P49736	MCM2	involved_in	GO:0006270	DNA replication initiation	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001208|InterPro:IPR008045	9606	InterPro		P
+UniProtKB	P49736	MCM2	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P49916	LIG3	involved_in	GO:0006273	lagging strand elongation	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000048695|SGD:S000002323	9606	GO_Central		P
+UniProtKB	P49916	LIG3	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P49917	LIG4	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P49959	MRE11	involved_in	GO:0110025	DNA strand resection involved in replication fork processing	ECO:0000314	IDA	PMID:29670289		9606	UniProt		P
+UniProtKB	P49959	MRE11	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	P49959	MRE11	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	P50750	CDK9	involved_in	GO:0031297	replication fork processing	ECO:0000314	IDA	PMID:20930849		9606	UniProt		P
+UniProtKB	P51530	DNA2	involved_in	GO:1902990	mitotic telomere maintenance via semi-conservative replication	ECO:0000250	ISS	PMID:23604072	UniProtKB:Q6ZQJ5	9606	BHF-UCL		P
+UniProtKB	P51530	DNA2	involved_in	GO:0033567	DNA replication, Okazaki fragment processing	ECO:0000314	IDA	PMID:22570407		9606	UniProt		P
+UniProtKB	P51530	DNA2	involved_in	GO:0006264	mitochondrial DNA replication	ECO:0000314	IDA	PMID:19487465		9606	UniProt		P
+UniProtKB	P51530	DNA2	involved_in	GO:0006264	mitochondrial DNA replication	ECO:0000314	IDA	PMID:18995831		9606	UniProt		P
+UniProtKB	P51530	DNA2	involved_in	GO:0006260	DNA replication	ECO:0000315	IMP	PMID:22570476		9606	UniProt		P
+UniProtKB	P51530	DNA2	involved_in	GO:0071932	replication fork reversal	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000094675|PomBase:SPBC16D10.04c	9606	GO_Central		P
+UniProtKB	P51530	DNA2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174451		9606	Reactome		P
+UniProtKB	P51530	DNA2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174441		9606	Reactome		P
+UniProtKB	P51530	DNA2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	P51530	DNA2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	P51530	DNA2	involved_in	GO:1902990	mitotic telomere maintenance via semi-conservative replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6ZQJ5|ensembl:ENSMUSP00000115750	9606	Ensembl		P
+UniProtKB	P51530	DNA2	involved_in	GO:0033567	DNA replication, Okazaki fragment processing	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR026851	9606	InterPro		P
+UniProtKB	P51530	DNA2	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P51587	BRCA2	involved_in	GO:1990426	mitotic recombination-dependent replication fork processing	ECO:0000315	IMP	PMID:21076401		9606	BHF-UCL	occurs_in(GO:0000784)	P
+UniProtKB	P51587	BRCA2	involved_in	GO:0048478	replication fork protection	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97929|ensembl:ENSMUSP00000038576	9606	Ensembl		P
+UniProtKB	P52701	MSH6	involved_in	GO:0043111	replication fork arrest	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000145560|SGD:S000002504	9606	GO_Central		P
+UniProtKB	P52948	NUP98	involved_in	GO:0006260	DNA replication	ECO:0000315	IMP	PMID:9348540		9606	UniProt		P
+UniProtKB	P54098	POLG	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000304	TAS	PMID:3619920		9606	PINC		P
+UniProtKB	P54098	POLG	involved_in	GO:0006264	mitochondrial DNA replication	ECO:0000318	IBA	PMID:21873635	FB:FBgn0004406|MGI:MGI:1196389|PANTHER:PTN000030201|PomBase:SPCC24B10.22|SGD:S000005857|WB:WBGene00013258	9606	GO_Central		P
+UniProtKB	P54098	POLG	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001098|InterPro:IPR002297|InterPro:IPR019760	9606	InterPro		P
+UniProtKB	P54098	POLG	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P54132	BLM	involved_in	GO:0006260	DNA replication	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:O88700	9606	BHF-UCL	occurs_at(GO:0000781)	P
+UniProtKB	P54132	BLM	involved_in	GO:0048478	replication fork protection	ECO:0000303	NAS	PMID:10779560		9606	UniProt		P
+UniProtKB	P54132	BLM	involved_in	GO:0031297	replication fork processing	ECO:0000314	IDA	PMID:17115688		9606	UniProt		P
+UniProtKB	P54132	BLM	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	P54132	BLM	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	P54132	BLM	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR012532|InterPro:IPR018982	9606	InterPro		P
+UniProtKB	P54132	BLM	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	P55209	NAP1L1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:8297347		9606	PINC		P
+UniProtKB	P56282	POLE2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:9405441		9606	PINC		P
+UniProtKB	P56282	POLE2	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000295225|SGD:S000006379	9606	GO_Central		P
+UniProtKB	P56282	POLE2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174425		9606	Reactome		P
+UniProtKB	P56282	POLE2	involved_in	GO:0006270	DNA replication initiation	ECO:0000304	TAS	Reactome:R-HSA-68952		9606	Reactome		P
+UniProtKB	P56282	POLE2	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR007185	9606	InterPro		P
+UniProtKB	P56282	POLE2	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR016266	9606	InterPro		P
+UniProtKB	P56282	POLE2	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q00577	PURA	involved_in	GO:0006270	DNA replication initiation	ECO:0000304	TAS	PMID:1545807		9606	PINC		P
+UniProtKB	Q00577	PURA	involved_in	GO:0006268	DNA unwinding involved in DNA replication	ECO:0000314	IDA	PMID:15777841		9606	UniProt		P
+UniProtKB	Q01105	SET	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:7753797		9606	PINC		P
+UniProtKB	Q04837	SSBP1	involved_in	GO:0006264	mitochondrial DNA replication	ECO:0000318	IBA	PMID:21873635	FB:FBgn0010438|PANTHER:PTN000033809	9606	GO_Central		P
+UniProtKB	Q04837	SSBP1	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011344	9606	InterPro		P
+UniProtKB	Q04837	SSBP1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0031297	replication fork processing	ECO:0000314	IDA	PMID:25585578		9606	UniProt		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0031297	replication fork processing	ECO:0000315	IMP	PMID:22778135		9606	BHF-UCL		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0006268	DNA unwinding involved in DNA replication	ECO:0000314	IDA	PMID:7988572		9606	UniProt		P
+UniProtKB	Q06609	RAD51	involved_in	GO:1990426	mitotic recombination-dependent replication fork processing	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011941	9606	InterPro		P
+UniProtKB	Q07864	POLE	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:8486689		9606	PINC		P
+UniProtKB	Q07864	POLE	involved_in	GO:0006260	DNA replication	ECO:0000315	IMP	PMID:16762037		9606	UniProt		P
+UniProtKB	Q07864	POLE	involved_in	GO:0045004	DNA replication proofreading	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000072300|SGD:S000005206	9606	GO_Central		P
+UniProtKB	Q07864	POLE	involved_in	GO:0006272	leading strand elongation	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000072300|SGD:S000005206	9606	GO_Central		P
+UniProtKB	Q07864	POLE	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174425		9606	Reactome		P
+UniProtKB	Q07864	POLE	involved_in	GO:0006270	DNA replication initiation	ECO:0000304	TAS	Reactome:R-HSA-68952		9606	Reactome		P
+UniProtKB	Q07864	POLE	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR013697|InterPro:IPR029703	9606	InterPro		P
+UniProtKB	Q07864	POLE	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q08211	DHX9	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q08945	SSRP1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q09028	RBBP4	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q12857	NFIA	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q13111	CHAF1A	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q13112	CHAF1B	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q13156	RPA4	involved_in	GO:0006270	DNA replication initiation	ECO:0000304	TAS	PMID:7760808		9606	PINC		P
+UniProtKB	Q13156	RPA4	involved_in	GO:0006260	DNA replication	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000360435|SGD:S000005256|TAIR:locus:2061072|UniProtKB:P15927	9606	GO_Central		P
+UniProtKB	Q13156	RPA4	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR014646	9606	InterPro		P
+UniProtKB	Q13315	ATM	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	Q13315	ATM	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	Q13415	ORC1	involved_in	GO:0006270	DNA replication initiation	ECO:0000304	TAS	PMID:7502077		9606	PINC		P
+UniProtKB	Q13415	ORC1	involved_in	GO:0006270	DNA replication initiation	ECO:0000318	IBA	PMID:21873635	FB:FBgn0022772|PANTHER:PTN000080057|SGD:S000004530	9606	GO_Central		P
+UniProtKB	Q13415	ORC1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176318		9606	Reactome		P
+UniProtKB	Q13415	ORC1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q13416	ORC2	involved_in	GO:0006270	DNA replication initiation	ECO:0000304	TAS	PMID:8808289		9606	PINC		P
+UniProtKB	Q13416	ORC2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176318		9606	Reactome		P
+UniProtKB	Q13416	ORC2	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR007220	9606	InterPro		P
+UniProtKB	Q13416	ORC2	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q13472	TOP3A	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	Q13472	TOP3A	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	Q13535	ATR	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	Q13535	ATR	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	Q13535	ATR	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176298		9606	Reactome		P
+UniProtKB	Q13535	ATR	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176250		9606	Reactome		P
+UniProtKB	Q13535	ATR	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176116		9606	Reactome		P
+UniProtKB	Q13829	TNFAIP1	involved_in	GO:0006260	DNA replication	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q7TNY1	9606	UniProt		P
+UniProtKB	Q13829	TNFAIP1	involved_in	GO:0006260	DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7TNY1|ensembl:ENSRNOP00000012245	9606	Ensembl		P
+UniProtKB	Q14181	POLA2	involved_in	GO:0006260	DNA replication	ECO:0000303	NAS	PMID:8223465		9606	UniProt		P
+UniProtKB	Q14181	POLA2	involved_in	GO:0006270	DNA replication initiation	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000551732|SGD:S000000131	9606	GO_Central		P
+UniProtKB	Q14181	POLA2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174452		9606	Reactome		P
+UniProtKB	Q14181	POLA2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174427		9606	Reactome		P
+UniProtKB	Q14181	POLA2	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174425		9606	Reactome		P
+UniProtKB	Q14181	POLA2	involved_in	GO:0006270	DNA replication initiation	ECO:0000304	TAS	Reactome:R-HSA-68952		9606	Reactome		P
+UniProtKB	Q14181	POLA2	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR007185	9606	InterPro		P
+UniProtKB	Q14181	POLA2	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q14191	WRN	involved_in	GO:0006260	DNA replication	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:O09053	9606	BHF-UCL	occurs_at(GO:0000781)	P
+UniProtKB	Q14191	WRN	involved_in	GO:0031297	replication fork processing	ECO:0000315	IMP	PMID:12882351		9606	UniProt		P
+UniProtKB	Q14191	WRN	involved_in	GO:0031297	replication fork processing	ECO:0000314	IDA	PMID:17115688		9606	UniProt		P
+UniProtKB	Q14191	WRN	involved_in	GO:0006260	DNA replication	ECO:0000315	IMP	PMID:12882351		9606	UniProt		P
+UniProtKB	Q14191	WRN	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	Q14191	WRN	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	Q14191	WRN	involved_in	GO:0006260	DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O09053|ensembl:ENSMUSP00000033991	9606	Ensembl		P
+UniProtKB	Q14191	WRN	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR018982	9606	InterPro		P
+UniProtKB	Q14493	SLBP	involved_in	GO:0033260	nuclear DNA replication	ECO:0000315	IMP	PMID:19155325		9606	UniProt		P
+UniProtKB	Q14566	MCM6	involved_in	GO:0006260	DNA replication	ECO:0000303	NAS	PMID:9286856		9606	UniProt		P
+UniProtKB	Q14566	MCM6	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176318		9606	Reactome		P
+UniProtKB	Q14566	MCM6	involved_in	GO:0006268	DNA unwinding involved in DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97311|ensembl:ENSMUSP00000027601	9606	Ensembl		P
+UniProtKB	Q14566	MCM6	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR018525	9606	InterPro		P
+UniProtKB	Q14566	MCM6	involved_in	GO:0006270	DNA replication initiation	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001208|InterPro:IPR008049	9606	InterPro		P
+UniProtKB	Q14566	MCM6	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q14686	NCOA6	involved_in	GO:0006260	DNA replication	ECO:0000303	NAS	PMID:11443112		9606	UniProt		P
+UniProtKB	Q14691	GINS1	involved_in	GO:1902983	DNA strand elongation involved in mitotic DNA replication	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000308454|PomBase:SPBP23A10.09	9606	GO_Central		P
+UniProtKB	Q14691	GINS1	involved_in	GO:0006271	DNA strand elongation involved in DNA replication	ECO:0000304	TAS	Reactome:R-HSA-69190		9606	Reactome		P
+UniProtKB	Q14691	GINS1	involved_in	GO:0006260	DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CZ15|ensembl:ENSMUSP00000028948	9606	Ensembl		P
+UniProtKB	Q14691	GINS1	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005339	9606	InterPro		P
+UniProtKB	Q14691	GINS1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q14938	NFIX	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q15004	PCLAF	involved_in	GO:0006260	DNA replication	ECO:0000314	IDA	PMID:23000965		9606	UniProt		P
+UniProtKB	Q15054	POLD3	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174451		9606	Reactome		P
+UniProtKB	Q15054	POLD3	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174448		9606	Reactome		P
+UniProtKB	Q15054	POLD3	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174445		9606	Reactome		P
+UniProtKB	Q15054	POLD3	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174444		9606	Reactome		P
+UniProtKB	Q15054	POLD3	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174441		9606	Reactome		P
+UniProtKB	Q15054	POLD3	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174438		9606	Reactome		P
+UniProtKB	Q15054	POLD3	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F6T1W7|ensembl:ENSRNOP00000024875	9606	Ensembl		P
+UniProtKB	Q15054	POLD3	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR019038	9606	InterPro		P
+UniProtKB	Q15054	POLD3	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q15513	SPHAR	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:7799938		9606	PINC		P
+UniProtKB	Q16576	RBBP7	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q17RS7	GEN1	involved_in	GO:0031297	replication fork processing	ECO:0000314	IDA	PMID:26578604		9606	UniProt		P
+UniProtKB	Q3V6T2	CCDC88A	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q3YBR2	TBRG1	involved_in	GO:0006260	DNA replication	ECO:0000315	IMP	PMID:17110379		9606	HGNC		P
+UniProtKB	Q4G0Z9	MCMDC2	involved_in	GO:0006270	DNA replication initiation	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001208	9606	InterPro		P
+UniProtKB	Q53H47	SETMAR	involved_in	GO:0031297	replication fork processing	ECO:0000315	IMP	PMID:20457750		9606	UniProt		P
+UniProtKB	Q53H47	SETMAR	involved_in	GO:0031297	replication fork processing	ECO:0000315	IMP	PMID:22231448		9606	UniProt		P
+UniProtKB	Q53H47	SETMAR	involved_in	GO:0031297	replication fork processing	ECO:0000315	IMP	PMID:24573677		9606	UniProt		P
+UniProtKB	Q5FWF4	ZRANB3	involved_in	GO:0048478	replication fork protection	ECO:0000314	IDA	PMID:22705370		9606	UniProt		P
+UniProtKB	Q5FWF4	ZRANB3	involved_in	GO:0048478	replication fork protection	ECO:0000314	IDA	PMID:22704558		9606	UniProt		P
+UniProtKB	Q5FWF4	ZRANB3	involved_in	GO:0031297	replication fork processing	ECO:0000314	IDA	PMID:22705370		9606	UniProt		P
+UniProtKB	Q5FWF4	ZRANB3	involved_in	GO:0031297	replication fork processing	ECO:0000314	IDA	PMID:22704558		9606	UniProt		P
+UniProtKB	Q5FWF4	ZRANB3	involved_in	GO:0048478	replication fork protection	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002908525|UniProtKB:Q5FWF4	9606	GO_Central		P
+UniProtKB	Q5FWF4	ZRANB3	involved_in	GO:0031297	replication fork processing	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002908525|UniProtKB:Q5FWF4|UniProtKB:Q9NZC9	9606	GO_Central		P
+UniProtKB	Q66K89	E4F1	involved_in	GO:0006260	DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8CCE9|ensembl:ENSMUSP00000062344	9606	Ensembl		P
+UniProtKB	Q6IQ49	SDE2	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q6PCD5	RFWD3	involved_in	GO:0031297	replication fork processing	ECO:0000314	IDA	PMID:26474068		9606	UniProt		P
+UniProtKB	Q6WBX8	RAD9B	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	Q6ZRQ5	MMS22L	involved_in	GO:0031297	replication fork processing	ECO:0000315	IMP	PMID:21055983		9606	UniProt		P
+UniProtKB	Q6ZRQ5	MMS22L	involved_in	GO:0031297	replication fork processing	ECO:0000315	IMP	PMID:21055985		9606	UniProt		P
+UniProtKB	Q6ZRQ5	MMS22L	involved_in	GO:0031297	replication fork processing	ECO:0000315	IMP	PMID:21055984		9606	UniProt		P
+UniProtKB	Q7L590	MCM10	involved_in	GO:0006270	DNA replication initiation	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000335708|SGD:S000001412	9606	GO_Central		P
+UniProtKB	Q7L590	MCM10	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176318		9606	Reactome		P
+UniProtKB	Q7L590	MCM10	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR015408	9606	InterPro		P
+UniProtKB	Q7L590	MCM10	involved_in	GO:0006270	DNA replication initiation	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR040184	9606	InterPro		P
+UniProtKB	Q7L590	MCM10	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q7LG56	RRM2B	involved_in	GO:0006264	mitochondrial DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6PEE3|ensembl:ENSMUSP00000022901	9606	Ensembl		P
+UniProtKB	Q7LG56	RRM2B	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q7LG56	RRM2B	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00326	9606	UniProt		P
+UniProtKB	Q7Z2Z1	TICRR	involved_in	GO:0006260	DNA replication	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q6DRL4	9606	UniProt		P
+UniProtKB	Q7Z2Z1	TICRR	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR026153	9606	InterPro		P
+UniProtKB	Q7Z5Q5	POLN	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000318	IBA	PMID:21873635	EcoGene:EG10746|PANTHER:PTN000015249	9606	GO_Central		P
+UniProtKB	Q7Z5Q5	POLN	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001098	9606	InterPro		P
+UniProtKB	Q7Z5Q5	POLN	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002298	9606	InterPro		P
+UniProtKB	Q7Z5Q5	POLN	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q7Z6E9	RBBP6	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q7Z7C7	STRA8	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q7Z7L1	SLFN11	involved_in	GO:0043111	replication fork arrest	ECO:0000314	IDA	PMID:29395061		9606	UniProt		P
+UniProtKB	Q86UA6	RPAIN	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000353	IPI	PMID:16135809	UniProtKB:P27694	9606	MGI		P
+UniProtKB	Q86V81	ALYREF	involved_in	GO:0031297	replication fork processing	ECO:0000315	IMP	PMID:22144908		9606	UniProt		P
+UniProtKB	Q8IY92	SLX4	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR018574	9606	InterPro		P
+UniProtKB	Q8IYD8	FANCM	involved_in	GO:0031297	replication fork processing	ECO:0000315	IMP	PMID:20347428		9606	UniProt		P
+UniProtKB	Q8N2Z9	CENPS	involved_in	GO:0031297	replication fork processing	ECO:0000315	IMP	PMID:20347428		9606	UniProt		P
+UniProtKB	Q8N2Z9	CENPS	involved_in	GO:0031297	replication fork processing	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000541279|UniProtKB:Q8N2Z9	9606	GO_Central		P
+UniProtKB	Q8NFC6	BOD1L1	involved_in	GO:0031297	replication fork processing	ECO:0000314	IDA	PMID:26166705		9606	UniProt		P
+UniProtKB	Q8NFZ0	FBH1	involved_in	GO:0048478	replication fork protection	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q8K2I9	9606	UniProt		P
+UniProtKB	Q8NFZ0	FBH1	involved_in	GO:0031297	replication fork processing	ECO:0000314	IDA	PMID:25585578		9606	UniProt		P
+UniProtKB	Q8NFZ0	FBH1	involved_in	GO:0031297	replication fork processing	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1354699|PANTHER:PTN000116269|PomBase:SPBC336.01|UniProtKB:F1ND48|UniProtKB:Q8NFZ0	9606	GO_Central		P
+UniProtKB	Q8NFZ0	FBH1	involved_in	GO:0048478	replication fork protection	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8K2I9|ensembl:ENSMUSP00000071495	9606	Ensembl		P
+UniProtKB	Q8NFZ0	FBH1	involved_in	GO:0031297	replication fork processing	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8K2I9|ensembl:ENSMUSP00000071495	9606	Ensembl		P
+UniProtKB	Q8NG08	HELB	involved_in	GO:0006269	DNA replication, synthesis of RNA primer	ECO:0000314	IDA	PMID:12181327		9606	UniProt		P
+UniProtKB	Q8NG08	HELB	involved_in	GO:0006260	DNA replication	ECO:0000315	IMP	PMID:12181327		9606	UniProt		P
+UniProtKB	Q8NG08	HELB	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6NVF4|ensembl:ENSMUSP00000020449	9606	Ensembl		P
+UniProtKB	Q8NG08	HELB	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR027044	9606	InterPro		P
+UniProtKB	Q8NG08	HELB	involved_in	GO:0006269	DNA replication, synthesis of RNA primer	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR027044	9606	InterPro		P
+UniProtKB	Q8TEA8	DTD1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q8WVB6	CHTF18	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q8WXE1	ATRIP	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	Q8WXE1	ATRIP	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	Q8WXE1	ATRIP	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176298		9606	Reactome		P
+UniProtKB	Q8WXE1	ATRIP	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176250		9606	Reactome		P
+UniProtKB	Q8WXE1	ATRIP	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176116		9606	Reactome		P
+UniProtKB	Q8WYH8	ING5	involved_in	GO:0006260	DNA replication	ECO:0000314	IDA	PMID:16387653		9606	UniProt		P
+UniProtKB	Q8WZ19	KCTD13	involved_in	GO:0006260	DNA replication	ECO:0000250	ISS	PMID:15726626	UniProtKB:Q7TQ24	9606	UniProt		P
+UniProtKB	Q8WZ19	KCTD13	involved_in	GO:0006260	DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7TQ24|ensembl:ENSRNOP00000027129	9606	Ensembl		P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	Q92878	RAD50	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	Q92878	RAD50	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	Q92900	UPF1	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000314	IDA	PMID:21829167		9606	BHF-UCL		P
+UniProtKB	Q92900	UPF1	involved_in	GO:0006260	DNA replication	ECO:0000315	IMP	PMID:16488880		9606	HGNC		P
+UniProtKB	Q92993	KAT5	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	Q92993	KAT5	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	Q969P6	TOP1MT	involved_in	GO:0006260	DNA replication	ECO:0000318	IBA	PMID:21873635	MGI:MGI:98788|PANTHER:PTN000033230	9606	GO_Central		P
+UniProtKB	Q96AY2	EME1	involved_in	GO:0031297	replication fork processing	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001078409|PomBase:SPAPB1E7.06c	9606	GO_Central		P
+UniProtKB	Q96E14	RMI2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	Q96E14	RMI2	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	Q96E14	RMI2	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q96EY1	DNAJA3	involved_in	GO:0006264	mitochondrial DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99M87|ensembl:ENSMUSP00000053842	9606	Ensembl		P
+UniProtKB	Q96FC9	DDX11	involved_in	GO:0031297	replication fork processing	ECO:0000315	IMP	PMID:26503245		9606	UniProt		P
+UniProtKB	Q96FC9	DDX11	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q96FV9	THOC1	involved_in	GO:0031297	replication fork processing	ECO:0000315	IMP	PMID:22144908		9606	UniProt		P
+UniProtKB	Q96HA7	TONSL	involved_in	GO:0031297	replication fork processing	ECO:0000315	IMP	PMID:21055984		9606	UniProt		P
+UniProtKB	Q96HA7	TONSL	involved_in	GO:0031297	replication fork processing	ECO:0000315	IMP	PMID:21055983		9606	UniProt		P
+UniProtKB	Q96HA7	TONSL	involved_in	GO:0031297	replication fork processing	ECO:0000315	IMP	PMID:21055985		9606	UniProt		P
+UniProtKB	Q96LW4	PRIMPOL	involved_in	GO:0031297	replication fork processing	ECO:0000315	IMP	PMID:24267451		9606	UniProt		P
+UniProtKB	Q96LW4	PRIMPOL	involved_in	GO:0031297	replication fork processing	ECO:0000315	IMP	PMID:24240614		9606	UniProt		P
+UniProtKB	Q96LW4	PRIMPOL	involved_in	GO:0006264	mitochondrial DNA replication	ECO:0000315	IMP	PMID:24207056		9606	UniProt		P
+UniProtKB	Q96LW4	PRIMPOL	involved_in	GO:0006264	mitochondrial DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6P1E7|ensembl:ENSMUSP00000036119	9606	Ensembl		P
+UniProtKB	Q96LW4	PRIMPOL	involved_in	GO:0006269	DNA replication, synthesis of RNA primer	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002755	9606	InterPro		P
+UniProtKB	Q96NB3	ZNF830	involved_in	GO:0048478	replication fork protection	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q8R1N0	9606	UniProt		P
+UniProtKB	Q96NB3	ZNF830	involved_in	GO:0048478	replication fork protection	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1914233|PANTHER:PTN000328334	9606	GO_Central		P
+UniProtKB	Q96NB3	ZNF830	involved_in	GO:0033260	nuclear DNA replication	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1914233|PANTHER:PTN000328334	9606	GO_Central		P
+UniProtKB	Q96NB3	ZNF830	involved_in	GO:0048478	replication fork protection	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8R1N0|ensembl:ENSMUSP00000056154	9606	Ensembl		P
+UniProtKB	Q96NB3	ZNF830	involved_in	GO:0033260	nuclear DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8R1N0|ensembl:ENSMUSP00000056154	9606	Ensembl		P
+UniProtKB	Q96PK6	RBM14	involved_in	GO:0006260	DNA replication	ECO:0000303	NAS	PMID:11443112		9606	UniProt		P
+UniProtKB	Q96PZ2	FAM111A	involved_in	GO:0006260	DNA replication	ECO:0000315	IMP	PMID:24561620		9606	UniProt		P
+UniProtKB	Q96PZ2	FAM111A	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q96QE3	ATAD5	involved_in	GO:0033260	nuclear DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q4QY64|ensembl:ENSMUSP00000017694	9606	Ensembl		P
+UniProtKB	Q96RR1	TWNK	involved_in	GO:0006264	mitochondrial DNA replication	ECO:0000315	IMP	PMID:18971204		9606	UniProt		P
+UniProtKB	Q96RR1	TWNK	involved_in	GO:0006264	mitochondrial DNA replication	ECO:0000303	NAS	PMID:12975372		9606	UniProt		P
+UniProtKB	Q96RR1	TWNK	involved_in	GO:0006268	DNA unwinding involved in DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8CIW5|ensembl:ENSMUSP00000026227	9606	Ensembl		P
+UniProtKB	Q96RR1	TWNK	involved_in	GO:0006264	mitochondrial DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8CIW5|ensembl:ENSMUSP00000026227	9606	Ensembl		P
+UniProtKB	Q96RR1	TWNK	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR007694	9606	InterPro		P
+UniProtKB	Q96RR1	TWNK	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q96S55	WRNIP1	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000318	IBA	PMID:21873635	EcoGene:EG12690|PANTHER:PTN000349879|SGD:S000005162	9606	GO_Central		P
+UniProtKB	Q96S55	WRNIP1	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008921	9606	InterPro		P
+UniProtKB	Q96S55	WRNIP1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q96ST3	SIN3A	involved_in	GO:0006260	DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q60520|ensembl:ENSMUSP00000130221	9606	Ensembl		P
+UniProtKB	Q96T60	PNKP	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000303	NAS	PMID:10446192		9606	UniProt		P
+UniProtKB	Q99543	DNAJC2	involved_in	GO:0006260	DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P54103|ensembl:ENSMUSP00000030771	9606	Ensembl		P
+UniProtKB	Q99638	RAD9A	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	Q99708	RBBP8	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	Q99708	RBBP8	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	Q99728	BARD1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	Q99728	BARD1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	Q99741	CDC6	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176318		9606	Reactome		P
+UniProtKB	Q99741	CDC6	involved_in	GO:0006270	DNA replication initiation	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR016314	9606	InterPro		P
+UniProtKB	Q99741	CDC6	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9BQ67	GRWD1	involved_in	GO:0006260	DNA replication	ECO:0000315	IMP	PMID:25990725		9606	UniProt		P
+UniProtKB	Q9BQ67	GRWD1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9BQP7	MGME1	involved_in	GO:0006264	mitochondrial DNA replication	ECO:0000315	IMP	PMID:23313956		9606	UniProt		P
+UniProtKB	Q9BQP7	MGME1	involved_in	GO:0006264	mitochondrial DNA replication	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001583233|UniProtKB:Q9BQP7	9606	GO_Central		P
+UniProtKB	Q9BRT9	GINS4	involved_in	GO:0006271	DNA strand elongation involved in DNA replication	ECO:0000304	TAS	Reactome:R-HSA-69190		9606	Reactome		P
+UniProtKB	Q9BRT9	GINS4	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008591	9606	InterPro		P
+UniProtKB	Q9BRT9	GINS4	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9BRX5	GINS3	involved_in	GO:0006271	DNA strand elongation involved in DNA replication	ECO:0000304	TAS	Reactome:R-HSA-69190		9606	Reactome		P
+UniProtKB	Q9BRX5	GINS3	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9BSD3	RHNO1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	Q9BTE3	MCMBP	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000315	IMP	PMID:21196493		9606	UniProt	happens_during(GO:0000084)	P
+UniProtKB	Q9BTE3	MCMBP	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000337082|UniProtKB:Q9BTE3	9606	GO_Central		P
+UniProtKB	Q9BTE3	MCMBP	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9BV38	WDR18	involved_in	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000428096|SGD:S000005126	9606	GO_Central		P
+UniProtKB	Q9BVC3	DSCC1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9BVW5	TIPIN	involved_in	GO:0048478	replication fork protection	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000325249|PomBase:SPBC30D10.04|SGD:S000004651	9606	GO_Central		P
+UniProtKB	Q9BVW5	TIPIN	involved_in	GO:0043111	replication fork arrest	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000325249|SGD:S000004651	9606	GO_Central		P
+UniProtKB	Q9BVW5	TIPIN	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	Q9BVW5	TIPIN	involved_in	GO:0048478	replication fork protection	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR012923	9606	InterPro		P
+UniProtKB	Q9BW66	CINP	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9BWE0	REPIN1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:10606657		9606	PINC		P
+UniProtKB	Q9BWE0	REPIN1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9BX63	BRIP1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	Q9BX63	BRIP1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	Q9BY42	RTF2	involved_in	GO:0071171	site-specific DNA replication termination at RTS1 barrier	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000299506|PomBase:SPAC1D4.09c	9606	GO_Central		P
+UniProtKB	Q9BY42	RTF2	involved_in	GO:1902979	mitotic DNA replication termination	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006735	9606	InterPro		P
+UniProtKB	Q9H1E3	NUCKS1	involved_in	GO:0031297	replication fork processing	ECO:0000314	IDA	PMID:26323318		9606	ParkinsonsUK-UCL		P
+UniProtKB	Q9H211	CDT1	involved_in	GO:0071163	DNA replication preinitiation complex assembly	ECO:0000314	IDA	PMID:11125146		9606	CAFA		P
+UniProtKB	Q9H211	CDT1	involved_in	GO:0071163	DNA replication preinitiation complex assembly	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002008627|UniProtKB:Q9H211	9606	GO_Central		P
+UniProtKB	Q9H211	CDT1	involved_in	GO:0006260	DNA replication	ECO:0000318	IBA	PMID:21873635	FB:FBgn0000996|PANTHER:PTN002008627|TAIR:locus:2042541|TAIR:locus:2102460	9606	GO_Central		P
+UniProtKB	Q9H211	CDT1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9H611	PIF1	involved_in	GO:0006260	DNA replication	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001149889|SGD:S000001073	9606	GO_Central		P
+UniProtKB	Q9H9A7	RMI1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	Q9H9A7	RMI1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	Q9H9A7	RMI1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9HAW4	CLSPN	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	Q9HAW4	CLSPN	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176318		9606	Reactome		P
+UniProtKB	Q9HCU8	POLD4	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000370937|RGD:1308519	9606	GO_Central		P
+UniProtKB	Q9HCU8	POLD4	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174451		9606	Reactome		P
+UniProtKB	Q9HCU8	POLD4	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174448		9606	Reactome		P
+UniProtKB	Q9HCU8	POLD4	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174445		9606	Reactome		P
+UniProtKB	Q9HCU8	POLD4	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174444		9606	Reactome		P
+UniProtKB	Q9HCU8	POLD4	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174441		9606	Reactome		P
+UniProtKB	Q9HCU8	POLD4	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174438		9606	Reactome		P
+UniProtKB	Q9HCU8	POLD4	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR007218	9606	InterPro		P
+UniProtKB	Q9HCU8	POLD4	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9NPB1	NT5M	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:10899995		9606	PINC		P
+UniProtKB	Q9NR33	POLE4	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174425		9606	Reactome		P
+UniProtKB	Q9NR33	POLE4	involved_in	GO:0006270	DNA replication initiation	ECO:0000304	TAS	Reactome:R-HSA-68952		9606	Reactome		P
+UniProtKB	Q9NRF9	POLE3	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:10801849		9606	PINC		P
+UniProtKB	Q9NRF9	POLE3	involved_in	GO:0032201	telomere maintenance via semi-conservative replication	ECO:0000304	TAS	Reactome:R-HSA-174425		9606	Reactome		P
+UniProtKB	Q9NRF9	POLE3	involved_in	GO:0006270	DNA replication initiation	ECO:0000304	TAS	Reactome:R-HSA-68952		9606	Reactome		P
+UniProtKB	Q9NRL2	BAZ1A	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000314	IDA	PMID:12434153		9606	UniProt		P
+UniProtKB	Q9NSU2	TREX1	involved_in	GO:0006260	DNA replication	ECO:0000303	NAS	PMID:11278605		9606	UniProt		P
+UniProtKB	Q9NSU2	TREX1	involved_in	GO:0006260	DNA replication	ECO:0000303	NAS	PMID:10391904		9606	UniProt		P
+UniProtKB	Q9NSU2	TREX1	involved_in	GO:0006260	DNA replication	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q91XB0|ensembl:ENSMUSP00000050971	9606	Ensembl		P
+UniProtKB	Q9NXL9	MCM9	involved_in	GO:0070716	mismatch repair involved in maintenance of fidelity involved in DNA-dependent DNA replication	ECO:0000315	IMP	PMID:26300262		9606	UniProt		P
+UniProtKB	Q9NY74	ETAA1	involved_in	GO:0031297	replication fork processing	ECO:0000314	IDA	PMID:27723717		9606	UniProt		P
+UniProtKB	Q9NY74	ETAA1	involved_in	GO:0031297	replication fork processing	ECO:0000314	IDA	PMID:27723720		9606	UniProt		P
+UniProtKB	Q9NY74	ETAA1	involved_in	GO:0031297	replication fork processing	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001046485|UniProtKB:Q9NY74	9606	GO_Central		P
+UniProtKB	Q9NYP3	DONSON	involved_in	GO:0048478	replication fork protection	ECO:0000315	IMP	PMID:28191891		9606	UniProt		P
+UniProtKB	Q9NYP3	DONSON	involved_in	GO:0006260	DNA replication	ECO:0000315	IMP	PMID:28191891		9606	UniProt		P
+UniProtKB	Q9NYP3	DONSON	involved_in	GO:0033260	nuclear DNA replication	ECO:0000318	IBA	PMID:21873635	FB:FBgn0086695|PANTHER:PTN000311848	9606	GO_Central		P
+UniProtKB	Q9NZ71	RTEL1	involved_in	GO:1902990	mitotic telomere maintenance via semi-conservative replication	ECO:0000250	ISS	PMID:24115439	UniProtKB:Q0VGM9	9606	BHF-UCL		P
+UniProtKB	Q9NZ71	RTEL1	involved_in	GO:0031297	replication fork processing	ECO:0000250	ISS	PMID:24115439	UniProtKB:Q0VGM9	9606	BHF-UCL	part_of(GO:1902990)	P
+UniProtKB	Q9NZ71	RTEL1	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030845	9606	InterPro		P
+UniProtKB	Q9NZC9	SMARCAL1	involved_in	GO:0031297	replication fork processing	ECO:0000304	TAS	PMID:27918544		9606	BHF-UCL	occurs_at(GO:0000781)	P
+UniProtKB	Q9NZC9	SMARCAL1	involved_in	GO:0031297	replication fork processing	ECO:0000315	IMP	PMID:19793862		9606	UniProt		P
+UniProtKB	Q9NZC9	SMARCAL1	involved_in	GO:0048478	replication fork protection	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002908525|UniProtKB:Q5FWF4	9606	GO_Central		P
+UniProtKB	Q9NZC9	SMARCAL1	involved_in	GO:0031297	replication fork processing	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002908525|UniProtKB:Q5FWF4|UniProtKB:Q9NZC9	9606	GO_Central		P
+UniProtKB	Q9NZC9	SMARCAL1	involved_in	GO:0031297	replication fork processing	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030101	9606	InterPro		P
+UniProtKB	Q9NZJ0	DTL	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9UBD5	ORC3	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:10402192		9606	PINC		P
+UniProtKB	Q9UBD5	ORC3	involved_in	GO:0006270	DNA replication initiation	ECO:0000318	IBA	PMID:21873635	FB:FBgn0005654|PANTHER:PTN000297471|SGD:S000003927	9606	GO_Central		P
+UniProtKB	Q9UBD5	ORC3	involved_in	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000297471|SGD:S000003927	9606	GO_Central		P
+UniProtKB	Q9UBD5	ORC3	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176318		9606	Reactome		P
+UniProtKB	Q9UBD5	ORC3	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR020795	9606	InterPro		P
+UniProtKB	Q9UBD5	ORC3	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9UBT6	POLK	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9UBU7	DBF4	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:10373557		9606	PINC		P
+UniProtKB	Q9UBU7	DBF4	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176318		9606	Reactome		P
+UniProtKB	Q9UBU7	DBF4	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9UBZ9	REV1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	PMID:10536157		9606	PINC		P
+UniProtKB	Q9UFC0	LRWD1	involved_in	GO:0006270	DNA replication initiation	ECO:0000304	TAS	PMID:20932478		9606	UniProt		P
+UniProtKB	Q9UFC0	LRWD1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9UGP5	POLL	involved_in	GO:0006260	DNA replication	ECO:0000303	NAS	PMID:10982892		9606	UniProt		P
+UniProtKB	Q9UGP5	POLL	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9UHN1	POLG2	involved_in	GO:0006261	DNA-dependent DNA replication	ECO:0000304	TAS	PMID:9153213		9606	PINC		P
+UniProtKB	Q9UHN1	POLG2	involved_in	GO:0006260	DNA replication	ECO:0000303	NAS	PMID:10608893		9606	UniProt		P
+UniProtKB	Q9UHN1	POLG2	involved_in	GO:0006264	mitochondrial DNA replication	ECO:0000318	IBA	PMID:21873635	FB:FBgn0004407|PANTHER:PTN002473373	9606	GO_Central		P
+UniProtKB	Q9UHN1	POLG2	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR027030	9606	InterPro		P
+UniProtKB	Q9UHN1	POLG2	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9UJA3	MCM8	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176318		9606	Reactome		P
+UniProtKB	Q9UNA4	POLI	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9UNL4	ING4	involved_in	GO:0006260	DNA replication	ECO:0000314	IDA	PMID:16387653		9606	UniProt		P
+UniProtKB	Q9UNS1	TIMELESS	involved_in	GO:0048478	replication fork protection	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000533813|PomBase:SPBC216.06c|SGD:S000005217	9606	GO_Central		P
+UniProtKB	Q9UNS1	TIMELESS	involved_in	GO:0043111	replication fork arrest	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000533813|PomBase:SPBC216.06c|SGD:S000005217	9606	GO_Central		P
+UniProtKB	Q9UNS1	TIMELESS	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	Q9UQ84	EXO1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684887		9606	Reactome		P
+UniProtKB	Q9UQ84	EXO1	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-5684875		9606	Reactome		P
+UniProtKB	Q9Y248	GINS2	involved_in	GO:0006271	DNA strand elongation involved in DNA replication	ECO:0000304	TAS	Reactome:R-HSA-69190		9606	Reactome		P
+UniProtKB	Q9Y248	GINS2	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR007257	9606	InterPro		P
+UniProtKB	Q9Y248	GINS2	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9Y253	POLH	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9Y3Z3	SAMHD1	involved_in	GO:0110025	DNA strand resection involved in replication fork processing	ECO:0000314	IDA	PMID:29670289		9606	UniProt		P
+UniProtKB	Q9Y3Z3	SAMHD1	involved_in	GO:0110025	DNA strand resection involved in replication fork processing	ECO:0000314	IDA	PMID:28834754		9606	UniProt		P
+UniProtKB	Q9Y3Z3	SAMHD1	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9Y5B9	SUPT16H	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
+UniProtKB	Q9Y5N6	ORC6	involved_in	GO:0006270	DNA replication initiation	ECO:0000318	IBA	PMID:21873635	FB:FBgn0023180|PANTHER:PTN000333607	9606	GO_Central		P
+UniProtKB	Q9Y5N6	ORC6	involved_in	GO:0006260	DNA replication	ECO:0000304	TAS	Reactome:R-HSA-176318		9606	Reactome		P
+UniProtKB	Q9Y5N6	ORC6	involved_in	GO:0006260	DNA replication	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008721|InterPro:IPR020529	9606	InterPro		P
+UniProtKB	Q9Y5N6	ORC6	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000037	UniProtKB-KW:KW-0235	9606	UniProt		P
