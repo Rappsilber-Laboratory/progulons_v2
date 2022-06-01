@@ -1,6 +1,5 @@
 # Progulons_MSB_revision
-Scripts and data related to the revision work of the "progulon" manuscript 
-
+R scripts and input files for the manuscript "Higher-order modular regulation of the human proteome"
 _R scripts_ are in main folder, all files that are read into R scripts are in _input_files_ folder, all files that are created by an R script are in the _output_files_ folder
 
 ### Some notes
