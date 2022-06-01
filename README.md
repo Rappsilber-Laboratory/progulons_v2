@@ -1,7 +1,7 @@
 # Progulons_MSB_revision
-R scripts and input files for the manuscript "Higher-order modular regulation of the human proteome"
+R scripts and input files for the manuscript "Higher-order modular regulation of the human proteome".
 
-_R scripts_ are in main folder, all files that are read into R scripts are in _input_files_ folder, all files that are created by an R script are in the _output_files_ folder
+_R scripts_ are in main folder, all files that are read into R scripts are in _input_files_ folder, all files that are created by an R script are in the _output_files_ folder.
 
 ### Some notes
 **Half-life-analysis.R** Script that creates Extended Data Figure 3, analysing mRNA and protein half-lives of progulons
